@@ -55,8 +55,11 @@ public class Programa {
         // Exercicio18 exercicio18 = new Exercicio18();
         // exercicio18.function();
 
-        Exercicio19 exercicio19 = new Exercicio19();
-        exercicio19.function();
+        // Exercicio19 exercicio19 = new Exercicio19();
+        // exercicio19.function();
+
+        Exercicio20 exercicio20 = new Exercicio20();
+        exercicio20.function();
 
     }
 }
